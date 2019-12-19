@@ -1,0 +1,81 @@
+{
+    "name": "Exante",
+    "description": "<p>EXANTE is a next generation investment company that aims to give its clients access to a broad range of financial instruments and markets. EXANTE's all-in-one multi-asset platform ensures optimal portfolio overview and extensive global reach on wide variety of financial products (Currencies,&nbsp; Swaps, CFDs, Stocks, Options, Bonds, Commodities, Futures, Funds, FOPs). EXANTE has a unique exchange-like open order book on all products with equal execution rules for everyone.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28085-developers-exante-eu.jpg",
+    "tags": [
+        "api provider",
+        "financial services",
+        "have api",
+        "market data",
+        "rest",
+        "sign in with facebook",
+        "sign in with github"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/exante\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Exante",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28085-developers-exante-eu.jpg",
+            "humanURL": "https:\/\/exante.eu",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/exante-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Authentication",
+            "url": "https:\/\/developers.exante.eu\/api\/#authentication"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/exante-regulatory-compliance-consultants-inc"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.exante.eu\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developers.exante.eu\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@exante.eu"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/exante"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/exante-ltd\/"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/developers.exante.eu\/new\/"
+        },
+        {
+            "type": "Tutorials",
+            "url": "https:\/\/developers.exante.eu\/tutorials\/auth-basics\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/EXANTE_EU"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/exante.eu"
+        }
+    ]
+}
